@@ -1,0 +1,11 @@
+.newinfo {
+    border: 2px solid rgb(226, 97, 97);
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 40%;
+    margin: 20px auto;
+}
+
+.myOtherButton {
+    background-color: rgb(246, 108, 198);
+}
